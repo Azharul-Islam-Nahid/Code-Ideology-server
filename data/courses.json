@@ -1,0 +1,242 @@
+[
+    {
+        "_id": "6357c829657f6b166884bee5",
+        "title": "Learn basic to advance HTML 5",
+        "category_id": "01",
+        "duration": "20",
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/776db6bd-54a0-4625-ba3d-1204fb922859-1df9ac41ffdf.small.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829ed59efdb4b492f1a",
+        "title": "Learn basic to advance CSS 3",
+        "category_id": "01",
+        "duration": "20",
+        "img": "https://www.tutorialrepublic.com/lib/images/css-illustration.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829028c15520e4b5981",
+        "title": "Learn basic to advance JavaScript",
+        "category_id": "01",
+        "duration": "20",
+        "img": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8291eaa5fca58232444",
+        "title": "Learn basic to advance Tailwind css",
+        "category_id": "01",
+        "duration": "20",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220831183000/Tailwind-CSS-Tutorial1.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8296aa06a9a741e30a1",
+        "title": "Learn basic to advance React",
+        "category_id": "01",
+        "duration": "20",
+        "img": "https://freeprojectscodes.com/wp-content/uploads/2022/06/React-js-projects-for-beginners-with-source-code.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c82916c7617540b57bf0",
+        "title": "Data Mining and Statistical Analysis",
+        "category_id": "02",
+        "duration": "20",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200522222206/Data-Mining-Vs-Statistics.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c82949790e27cb63db65",
+        "title": "Business Intelligence & Strategy-Making",
+        "category_id": "02",
+        "duration": "20",
+        "img": "https://www.knowledgenile.com/wp-content/uploads/2018/06/Business-Intelligence-Strategy.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c82990265af2c1e58bdb",
+        "title": "Data Engineering",
+        "category_id": "02",
+        "duration": "20",
+        "img": "https://learn.microsoft.com/training/achievements/data-engineer-azure-databricks-social.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829ded8b93f839df7ee",
+        "title": "Data Warehousing",
+        "category_id": "02",
+        "duration": "20",
+        "img": "https://datachannel.co/wp-content/uploads/2020/10/Data-Warehousing.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829b379f114b50d2de2",
+        "title": "Market Data Analytics",
+        "category_id": "02",
+        "duration": "20",
+        "img": "https://www.analyticsinsight.net/wp-content/uploads/2020/07/Data-Science-in-Stock-Trading.jpeg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8294e0b6dbce675149c",
+        "title": "Computer scientist",
+        "category_id": "03",
+        "duration": "20",
+        "img": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5f3409bdbde1eb810a6c814c_header-img.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8294f407ccf9e0b3a02",
+        "title": "Statistician",
+        "category_id": "03",
+        "duration": "20",
+        "img": "https://t4.ftcdn.net/jpg/03/06/86/15/360_F_306861576_1Eetl4QgMZTFBo6pSPHvPaVBWOROUVML.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829627ecf5bdb354ca2",
+        "title": "Machine learning engineer",
+        "category_id": "03",
+        "duration": "20",
+        "img": "https://www.opensourceforu.com/wp-content/uploads/2019/10/Become-a-machine-learning-engineer.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8293527ceb254b2ac76",
+        "title": "Research engineer",
+        "category_id": "03",
+        "duration": "20",
+        "img": "https://journaljerr.com/public/journals/38/homepageImage_en_US.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829cfcdbfc991a30c4d",
+        "title": "Algorithm engineer",
+        "category_id": "03",
+        "duration": "20",
+        "img": "https://www.energizing.com.tw/image/data/1597111044_97538954-600-02.jpg",
+        "course_info": ""
+    },
+    {
+        "_id": "6357c82909a99c738bc8cc02",
+        "title": "AI in Space",
+        "category_id": "04",
+        "duration": "20",
+        "img": "https://i0.wp.com/iponder.space/wp-content/uploads/2020/09/aishipnav-e1600545971825.jpeg?fit=1024%2C561&ssl=1",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8293db2dcd1fbf61768",
+        "title": "AI in medicine",
+        "category_id": "04",
+        "duration": "20",
+        "img": "https://www.systemsmedicine.net/wp-content/uploads/2020/06/Untitled-830x410.jpg",
+        "course_info": ""
+    },
+    {
+        "_id": "6357c829f542ba51d3106233",
+        "title": "AI in education",
+        "category_id": "04",
+        "duration": "20",
+        "img": "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt-840x420.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829427337b0817ac6ba",
+        "title": "AI in robotics",
+        "category_id": "04",
+        "duration": "20",
+        "img": "https://www.plyrotech.com/wp-content/uploads/2020/03/ai.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829353feae5d11100fd",
+        "title": "AI in information management",
+        "category_id": "04",
+        "duration": "20",
+        "img": "https://ars.els-cdn.com/content/image/X25439251.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829a0a23d85b709f7b3",
+        "title": "AWS Certified Cloud Practitioner",
+        "category_id": "05",
+        "duration": "20",
+        "img": "https://www.w3schools.com/aws/images/awscert.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c82908e43ca3c8e09db4",
+        "title": "AWS Certified Solutions Architect - Associate",
+        "category_id": "05",
+        "duration": "20",
+        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829c7339b4135fe83c5",
+        "title": "AWS Certified SysOps Administrator - Associate",
+        "category_id": "05",
+        "duration": "20",
+        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829be618525b9841a7b",
+        "title": "AWS Certified Developer - Associate",
+        "category_id": "05",
+        "duration": "20",
+        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829b03847da979db3e6",
+        "title": "AWS Certified Solutions Architect - Professional",
+        "category_id": "05",
+        "duration": "20",
+        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8296c0363ec6a856ffa",
+        "title": "Network Specialist",
+        "category_id": "06",
+        "duration": "20",
+        "img": "https://thumbs.dreamstime.com/z/specialist-network-specialist-network-technology-computer-information-electronic-engineer-repair-system-illustration-146648244.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c829298f406357abc5cf",
+        "title": "Network Technician",
+        "category_id": "06",
+        "duration": "20",
+        "img": "https://finglastrainingcentre.ie/wp-content/uploads/2022/01/Networking.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c82997d4f3ab58f6488f",
+        "title": "Network Administrator",
+        "category_id": "06",
+        "duration": "20",
+        "img": "https://blog.speedycourse.com.ph/wp-content/uploads/2018/03/network-admin.png",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8291148e3caf7d75457",
+        "title": "Network Analyst",
+        "category_id": "06",
+        "duration": "20",
+        "img": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d63ccddfb3f7d824974a450_network-analyst.jpg",
+        "course_info": " "
+    },
+    {
+        "_id": "6357c8298280578e660adcbd",
+        "title": "Network Engineer",
+        "category_id": "06",
+        "duration": "20",
+        "img": "https://plopdo.com/wp-content/uploads/2021/03/Networking-cover.png",
+        "course_info": " "
+    }
+]
