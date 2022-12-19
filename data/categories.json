@@ -2,37 +2,37 @@
     {
         "id": "01",
         "name": "Web Development",
-        "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "img": "https://i.ibb.co/jRxRsbN/top11.png",
         "total": 5
     },
     {
         "id": "02",
         "name": "Data Science",
-        "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "img": "https://i.ibb.co/v19zjgf/What-is-data-science-2.jpg",
         "total": 5
     },
     {
         "id": "03",
         "name": "Machine Learning",
-        "img": "https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960",
+        "img": "https://i.ibb.co/kxQpNDz/960x0.jpg",
         "total": 5
     },
     {
         "id": "04",
         "name": "Artificial Intelligence",
-        "img": "https://brainwareuniversity.ac.in/blog/wp-content/uploads/2020/12/ai-1.png",
+        "img": "https://i.ibb.co/g6ZC9LC/ai-1.png",
         "total": 5
     },
     {
         "id": "05",
         "name": "AWS Certification",
-        "img": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltacbcd67685f3bad4/61b7ae9bf6adbe75ea5e17fa/blog-thumb-cloud-aws.png",
+        "img": "https://i.ibb.co/J5Wv4xD/blog-thumb-cloud-aws.png",
         "total": 5
     },
     {
         "id": "06",
         "name": "Networking",
-        "img": "https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct-v2/What-is-Networking.jpg",
+        "img": "https://i.ibb.co/3T5x9qY/What-is-Networking.jpg",
         "total": 5
     }
 ]

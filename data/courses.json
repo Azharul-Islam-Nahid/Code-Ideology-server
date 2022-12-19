@@ -68,7 +68,7 @@
         "title": "Data Warehousing",
         "category_id": "02",
         "duration": "20",
-        "img": "https://datachannel.co/wp-content/uploads/2020/10/Data-Warehousing.jpg",
+        "img": "https://i.ibb.co/92NHRBf/Data-3-1370x685.jpg",
         "price": "10"
     },
     {
@@ -76,7 +76,7 @@
         "title": "Market Data Analytics",
         "category_id": "02",
         "duration": "20",
-        "img": "https://www.analyticsinsight.net/wp-content/uploads/2020/07/Data-Science-in-Stock-Trading.jpeg",
+        "img": "https://i.ibb.co/VwmrVMS/Data-Science-in-Stock-Trading.jpg",
         "price": "10"
     },
     {
@@ -84,7 +84,7 @@
         "title": "Computer scientist",
         "category_id": "03",
         "duration": "20",
-        "img": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5f3409bdbde1eb810a6c814c_header-img.jpg",
+        "img": "https://i.ibb.co/88bd0jM/5f3409bdbde1eb810a6c814c-header-img.jpg",
         "price": "10"
     },
     {
@@ -92,7 +92,7 @@
         "title": "Statistician",
         "category_id": "03",
         "duration": "20",
-        "img": "https://t4.ftcdn.net/jpg/03/06/86/15/360_F_306861576_1Eetl4QgMZTFBo6pSPHvPaVBWOROUVML.jpg",
+        "img": "https://i.ibb.co/JnSnpvD/360-F-306861576-1-Eetl4-Qg-MZTFBo6p-SPHv-Pa-VBWOROUVML.jpg",
         "price": "10"
     },
     {
@@ -100,7 +100,7 @@
         "title": "Machine learning engineer",
         "category_id": "03",
         "duration": "20",
-        "img": "https://www.opensourceforu.com/wp-content/uploads/2019/10/Become-a-machine-learning-engineer.jpg",
+        "img": "https://i.ibb.co/Yc64mYM/Become-a-machine-learning-engineer.jpg",
         "price": "10"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Research engineer",
         "category_id": "03",
         "duration": "20",
-        "img": "https://journaljerr.com/public/journals/38/homepageImage_en_US.jpg",
+        "img": "https://i.ibb.co/whr66nh/homepage-Image-en-US.jpg",
         "price": "10"
     },
     {
@@ -116,7 +116,7 @@
         "title": "Algorithm engineer",
         "category_id": "03",
         "duration": "20",
-        "img": "https://www.energizing.com.tw/image/data/1597111044_97538954-600-02.jpg",
+        "img": "https://i.ibb.co/DtxK8WT/1597111044-97538954-600-02.jpg",
         "price": "10"
     },
     {
@@ -124,7 +124,7 @@
         "title": "AI in Space",
         "category_id": "04",
         "duration": "20",
-        "img": "https://i0.wp.com/iponder.space/wp-content/uploads/2020/09/aishipnav-e1600545971825.jpeg?fit=1024%2C561&ssl=1",
+        "img": "https://i.ibb.co/h74V6dZ/aishipnav-e1600545971825.webp",
         "price": "10"
     },
     {
@@ -132,7 +132,7 @@
         "title": "AI in medicine",
         "category_id": "04",
         "duration": "20",
-        "img": "https://www.systemsmedicine.net/wp-content/uploads/2020/06/Untitled-830x410.jpg",
+        "img": "https://i.ibb.co/LN67rcP/Untitled-830x410.jpg",
         "price": "10"
     },
     {
@@ -140,7 +140,7 @@
         "title": "AI in education",
         "category_id": "04",
         "duration": "20",
-        "img": "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt-840x420.jpg",
+        "img": "https://i.ibb.co/LrjGw4b/edtech-innovations-higher-education-opt-840x420.jpg",
         "price": "10"
     },
     {
@@ -148,7 +148,7 @@
         "title": "AI in robotics",
         "category_id": "04",
         "duration": "20",
-        "img": "https://www.plyrotech.com/wp-content/uploads/2020/03/ai.jpg",
+        "img": "https://i.ibb.co/gZGsjst/ai.jpg",
         "price": "10"
     },
     {
@@ -156,7 +156,7 @@
         "title": "AI in information management",
         "category_id": "04",
         "duration": "20",
-        "img": "https://ars.els-cdn.com/content/image/X25439251.jpg",
+        "img": "https://i.ibb.co/1rZ5jGd/X25439251.jpg",
         "price": "10"
     },
     {
@@ -164,7 +164,7 @@
         "title": "AWS Certified Cloud Practitioner",
         "category_id": "05",
         "duration": "20",
-        "img": "https://www.w3schools.com/aws/images/awscert.png",
+        "img": "https://i.ibb.co/DV48ndN/awscert.png",
         "price": "10"
     },
     {
@@ -172,7 +172,7 @@
         "title": "AWS Certified Solutions Architect - Associate",
         "category_id": "05",
         "duration": "20",
-        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png",
+        "img": "https://i.ibb.co/pw4zmjD/AWS-Certified-Solutions-Architect-Associate-badge-3419559c682629072f1eb968d59dea0741772c0f.png",
         "price": "10"
     },
     {
@@ -180,7 +180,7 @@
         "title": "AWS Certified SysOps Administrator - Associate",
         "category_id": "05",
         "duration": "20",
-        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png",
+        "img": "https://i.ibb.co/8dvTvXT/AWS-Certified-Sys-Ops-Administrator-Associate-badge-c3586b02748654fb588633314dd66a1d6841893b.png",
         "price": "10"
     },
     {
@@ -188,7 +188,7 @@
         "title": "AWS Certified Developer - Associate",
         "category_id": "05",
         "duration": "20",
-        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png",
+        "img": "https://i.ibb.co/9cLhh8v/AWS-Certified-Developer-Associate-badge-5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png",
         "price": "10"
     },
     {
@@ -196,7 +196,7 @@
         "title": "AWS Certified Solutions Architect - Professional",
         "category_id": "05",
         "duration": "20",
-        "img": "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png",
+        "img": "https://i.ibb.co/jbMd5wZ/AWS-Certified-Solutions-Architect-Professional-badge-69d82ff1b2861e1089539ebba906c70b011b928a.png",
         "price": "10"
     },
     {
@@ -204,7 +204,7 @@
         "title": "Network Specialist",
         "category_id": "06",
         "duration": "20",
-        "img": "https://thumbs.dreamstime.com/z/specialist-network-specialist-network-technology-computer-information-electronic-engineer-repair-system-illustration-146648244.jpg",
+        "img": "https://i.ibb.co/pfD696z/specialist-network-specialist-network-technology-computer-information-electronic-engineer-repair-sys.jpg",
         "price": "10"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Network Technician",
         "category_id": "06",
         "duration": "20",
-        "img": "https://finglastrainingcentre.ie/wp-content/uploads/2022/01/Networking.jpg",
+        "img": "https://i.ibb.co/9H3cFWj/Networking.jpg",
         "price": "10"
     },
     {
@@ -220,7 +220,7 @@
         "title": "Network Administrator",
         "category_id": "06",
         "duration": "20",
-        "img": "https://blog.speedycourse.com.ph/wp-content/uploads/2018/03/network-admin.png",
+        "img": "https://i.ibb.co/ygHQBsc/network-admin.png",
         "price": "10"
     },
     {
@@ -228,7 +228,7 @@
         "title": "Network Analyst",
         "category_id": "06",
         "duration": "20",
-        "img": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d63ccddfb3f7d824974a450_network-analyst.jpg",
+        "img": "https://i.ibb.co/4tGRszL/5d63ccddfb3f7d824974a450-network-analyst.jpg",
         "price": "10"
     },
     {
@@ -236,7 +236,7 @@
         "title": "Network Engineer",
         "category_id": "06",
         "duration": "20",
-        "img": "https://plopdo.com/wp-content/uploads/2021/03/Networking-cover.png",
+        "img": "https://i.ibb.co/T41XryJ/Networking-cover.png",
         "price": "10"
     }
 ]
